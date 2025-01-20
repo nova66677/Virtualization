@@ -1,0 +1,1 @@
+savedcmd_/home/n0va/kernel_modules/hello_module/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/n0va/kernel_modules/hello_module/Module.symvers -T /home/n0va/kernel_modules/hello_module/modules.order -i Module.symvers -e 

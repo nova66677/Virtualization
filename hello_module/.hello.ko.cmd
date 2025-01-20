@@ -1,0 +1,1 @@
+savedcmd_/home/n0va/kernel_modules/hello_module/hello.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/n0va/kernel_modules/hello_module/hello.ko /home/n0va/kernel_modules/hello_module/hello.o /home/n0va/kernel_modules/hello_module/hello.mod.o
